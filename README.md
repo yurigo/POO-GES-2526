@@ -60,7 +60,7 @@ class Moto{
     }
 ```
 
-```java{
+```java
 class Main {
     public static void main(String[] args) {
         // Crear un objeto de la clase Moto
@@ -80,3 +80,9 @@ class Main {
     }
 }
 ```
+
+### Detectar clases y atributos
+
+Las áreas de tipo producción gestionan una o varias cadenas de producción. Una cadena de producción sólo puede estar gestionada por una única área de producción. Las cadenas de producción presentan un estado, en funcionamiento o paro, producen productos y abastecen los almacenes. Un producto tiene un identificador numérico, un peso y un precio. Un almacén es gestionado por una única área comercial, mientras que un área comercial puede gestionar uno o varios almacenes al mismo tiempo. Un almacén está caracterizado por una capacidad y un porcentaje de ocupación.
+
+![example-text-to-class](./assets/example-text-to-class.png)
