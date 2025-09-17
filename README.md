@@ -89,7 +89,7 @@ Las áreas de tipo producción gestionan una o varias cadenas de producción. Un
 
 ### Code examples
 
-[Hospital](./session%2001/example%20Hospital)
+- [Hospital](./session%2001/example%20Hospital)
 
 # Session 2
 
@@ -99,6 +99,6 @@ TBD
 
 ### Code examples
 
-[Point](./session%2002/example%20Point)
-[Company](./session%2002/example%20Company)
-[Moto](./session%2002/example%20Moto)
+- [Point](./session%2002/example%20Point)
+- [Company](./session%2002/example%20Company)
+- [Moto](./session%2002/example%20Moto)
