@@ -146,6 +146,7 @@ En un centro de salud, los pacientes piden citas con los médicos. De cada pacie
 
 ![health center](./assets/healthcenter.drawio.png)
 [documento drawio](./assets/healthCenter.drawio)
+[java code](./session%2003/health-center/)
 
 #### Ejercicio 02
 
