@@ -134,3 +134,25 @@ En el contexto de la **programación orientada a objetos**, el diagrama más uti
 - [Point](./session%2002/example%20Point)
 - [Company](./session%2002/example%20Company)
 - [Moto](./session%2002/example%20Moto)
+
+### Ejercicios
+
+#### Ejercicio 01
+**A partir de este texto:**
+
+En un centro de salud, los pacientes piden citas con los médicos. De cada paciente interesa guardar su nombre, apellido y número de tarjeta sanitaria. De cada médico interesa registrar su nombre, especialidad y número de colegiado. Cada cita tiene una fecha y hora, y está asociada a un paciente y a un médico. Los médicos pueden diagnosticar a los pacientes durante la cita. Los pacientes pueden consultar el resumen de su cita, donde aparezca: el nombre del médico, su especialidad y la fecha de la cita.
+
+**Detecta clases, relaciones, crea el diagrama de clases en UML y codifícalo en Java.**
+
+#### Ejercicio 02
+
+**A partir de este texto:**
+
+En la región de Kantalunya, los entrenadores registran a sus Pokémon en el Centro Pokémon.
+Cada entrenador tiene una identidad propia y un nivel de experiencia que refleja cuánto ha progresado en sus viajes. Además, cada uno puede llevar consigo un equipo de hasta seis Pokémon, que puede organizar libremente (añadiendo o retirando miembros).
+
+Los Pokémon que forman parte de un equipo se diferencian por su especie y, en ocasiones, por un apodo que les asigna el entrenador. Su fuerza varía según el nivel que alcanzan y su estado de salud se representa en puntos de vida. Para que puedan ser identificados fácilmente en el sistema, cada Pokémon cuenta con un código único en la Pokédex.
+
+Durante los combates, cada Pokémon puede atacar a un oponente o defenderse en su turno. Además, cada Pokémon pertenece a un tipo principal (como Agua, Fuego, Planta o Eléctrico) y, en algunos casos, puede contar con un segundo tipo que complementa al primero. En este ejercicio, los tipos se representarán como cadenas de texto.
+
+**Detecta clases, relaciones, crea el diagrama de clases en UML y codifícalo en Java.**
