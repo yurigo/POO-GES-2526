@@ -144,6 +144,9 @@ En un centro de salud, los pacientes piden citas con los médicos. De cada pacie
 
 **Detecta clases, relaciones, crea el diagrama de clases en UML y codifícalo en Java.**
 
+![health center](./assets/healthcenter.drawio.png)
+[documento drawio](./assets/healthCenter.drawio)
+
 #### Ejercicio 02
 
 **A partir de este texto:**
