@@ -98,6 +98,8 @@ Las áreas de tipo producción gestionan una o varias cadenas de producción. Un
 **UML** es un lenguaje de modelado estandarizado que permite representar de manera gráfica la estructura y el comportamiento de un sistema de software.  
 No es un lenguaje de programación, sino una herramienta para **diseñar, visualizar y comunicar** cómo se organiza y funciona una aplicación antes (o durante) su implementación.
 
+[ver documento](./assets/POO-UML-DiagramaClasses.pdf)
+
 ### Diagrama de Clases
 
 En el contexto de la **programación orientada a objetos**, el diagrama más utilizado es el **diagrama de clases**, que describe:
