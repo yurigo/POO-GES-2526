@@ -105,3 +105,11 @@ Texto de partida (modelar entrenadores y sus equipos):
 Objetivo: Identificar entidades (`Trainer`, `Pokemon`), limitar tamaño de equipo, normalizar nivel máximo y sentar base para futuras extensiones (ataques, tipos, etc.).
 
 - Código Java: [carpeta](./session%2004/pokemon/)
+
+### Ejercicio 03 - Centro de Salud v2.0
+
+Extensión del ejercicio del centro de salud para practicar constructores, validaciones y referencias `this`.
+
+> En un centro de salud, los pacientes piden citas con los médicos. De cada paciente interesa guardar su nombre, apellido y número de tarjeta sanitaria. De cada médico interesa registrar su nombre, especialidad y número de colegiado. Cada cita tiene una fecha y hora, y está asociada a un paciente y a un médico. Los médicos pueden diagnosticar a los pacientes durante la cita. Los pacientes pueden consultar el resumen de su cita, donde aparezca: el nombre del médico, su especialidad y la fecha de la cita. **Además, el sistema debe poder mostrar en todo momento cuántas citas han sido registradas en total en el centro de salud.**
+
+Objetivo: Mejorar la implementación previa añadiendo constructores con validaciones, uso de `this` y miembros estáticos para contar citas.
