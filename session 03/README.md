@@ -1,4 +1,4 @@
-# Sesión 03 – Modelado UML y Proyecto `health-center`
+# Modelado UML y Proyecto `health-center`
 
 En esta sesión se practicó el proceso de pasar de una idea informal a un **modelo UML sencillo** y luego a una **implementación en Java** (proyecto `health-center`). Se utilizó un diagrama (`healthCenter.drawio` / `healthcenter.drawio.png`) para razonar sobre clases, atributos y relaciones antes de codificar.
 
