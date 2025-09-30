@@ -1,38 +1,28 @@
 # Programación Orientada a Objetos (POO) – Guía de Sesiones 2025
 
-Repositorio de apoyo para la asignatura: ejemplos evolutivos, ejercicios guiados y prácticas de modelado pasando de texto → UML → código Java.
+## Objetivos de la asignatura
 
-## Objetivos de la asignatura (Guía Académica)
-
-O.01 Aprender a diseñar e implementar soluciones usando la POO.  
-O.02 Tener una base sólida de programación usando el lenguaje Java.  
-O.03 Ser capaz de estructurar, diseñar, programar y coordinar sistemas desarrollados en equipo.
+- Aprender a diseñar e implementar soluciones usando la POO.
+- Tener una base sólida de programación usando el lenguaje Java.
+- Ser capaz de estructurar, diseñar, programar y coordinar sistemas desarrollados en equipo.
 
 ### Síntesis
 
 Diseñar modelos orientados a objetos claros, trasladarlos a código Java mantenible y colaborar en el desarrollo estructurado de soluciones en equipo.
 
-## Resultados de Aprendizaje (RA)
+## Resultados de Aprendizaje
 
-RA.01 Programar de forma estructurada y modular.  
-RA.02 Conocer los fundamentos de la programación orientada a objetos.  
-RA.03 Desarrollar software según el paradigma orientado a objetos.  
-RA.04 Aplicar patrones de diseño software para una alta cohesión y un bajo acoplamiento.  
-RA.05 Aprender las bases del lenguaje de modelado UML.
+- Programar de forma estructurada y modular.
+- Conocer los fundamentos de la programación orientada a objetos.
+- Desarrollar software según el paradigma orientado a objetos.
+- Aplicar patrones de diseño software para una alta cohesión y un bajo acoplamiento.
+- Aprender las bases del lenguaje de modelado UML.
 
 ## Requisitos
 
 - Java (JDK) recomendado: 17+ (cualquier LTS >= 11 funciona)
 - Editor / IDE (IntelliJ, VS Code con extensión Java, etc.)
 - Conocimientos previos básicos de programación imperativa
-
-## Cómo usar este repositorio
-
-1. Lee el resumen de cada sesión abajo para entender el hilo pedagógico.
-2. Entra a la carpeta de la sesión y revisa su `README.md` completo.
-3. Abre los ejemplos de código y ejecútalos localmente.
-4. Realiza los ejercicios al final (o cuando se indiquen) antes de mirar la solución.
-5. Vuelve y extiende: añade validaciones, más métodos o nuevas clases.
 
 ## Roadmap de sesiones
 
