@@ -71,17 +71,25 @@ RA.05 Aprender las bases del lenguaje de modelado UML.
 
 Conceptos base: clase, objeto, atributos, métodos. Se muestra cómo instanciar y manipular estado. Primer ejercicio de extracción de clases desde un texto informal.
 
+[Ver contenido completo de la sesión 1](./session%2001/README.md)
+
 ### Sesión 2 – UML y Diagramas de Clases
 
 Representar el modelo: notación básica (clases, visibilidad, relaciones). Puente entre narrativa y estructura formal antes de codificar.
+
+[Ver contenido completo de la sesión 2](./session%2002/README.md)
 
 ### Sesión 3 – Sistema de Gestión de Citas Médicas
 
 Aplicación guiada: identificar entidades (Doctor, Patient, Appointment, Diagnosis), multiplicidades y responsabilidades; implementación alineada al diagrama.
 
+[Ver contenido completo de la sesión 3](./session%2003/README.md)
+
 ### Sesión 4 – Constructores, Parámetros y `this`
 
 Profundiza en creación robusta de objetos, validación de invariantes, paso de parámetros (por valor) y uso semántico de `this`.
+
+[Ver contenido completo de la sesión 4](./session%2004/README.md)
 
 ## Ejercicios globales destacados
 
