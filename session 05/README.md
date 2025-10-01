@@ -178,6 +178,39 @@ public void processAppointment() {
 }
 ```
 
+### 6. Tipos primitivos
+
+Java tiene 8 tipos de datos primitivos que representan valores simples (no son objetos):
+
+| Tipo      | Tamaño  | Rango de valores                                      | Valor por defecto | Ejemplo           |
+| --------- | ------- | ----------------------------------------------------- | ----------------- | ----------------- |
+| `byte`    | 8 bits  | -128 a 127                                            | 0                 | `byte b = 100;`   |
+| `short`   | 16 bits | -32,768 a 32,767                                      | 0                 | `short s = 1000;` |
+| `int`     | 32 bits | -2,147,483,648 a 2,147,483,647                        | 0                 | `int i = 50000;`  |
+| `long`    | 64 bits | -9,223,372,036,854,775,808 a 9,223,372,036,854,775,807| 0L                | `long l = 100000L;` |
+| `float`   | 32 bits | ~±3.4E-38 a ±3.4E+38 (precisión de 6-7 dígitos)      | 0.0f              | `float f = 3.14f;` |
+| `double`  | 64 bits | ~±1.7E-308 a ±1.7E+308 (precisión de 15 dígitos)     | 0.0d              | `double d = 3.14159;` |
+| `char`    | 16 bits | 0 a 65,535 (caracteres Unicode)                       | '\u0000'          | `char c = 'A';`   |
+| `boolean` | 1 bit   | `true` o `false`                                      | false             | `boolean isValid = true;` |
+
+**Características de los tipos primitivos:**
+
+- **No son objetos**: Se almacenan directamente en memoria (más eficientes)
+- **Tienen valores por defecto**: Los atributos de clase se inicializan automáticamente
+- **Pasan por valor**: Al pasar un primitivo a un método, se copia el valor
+- **Tienen clases wrapper**: Cada primitivo tiene una clase equivalente (`Integer`, `Double`, `Boolean`, etc.)
+
+**Ejemplos de uso:**
+
+```java
+public class Patient {
+    private int cardNumber;        // Tipo primitivo
+    private boolean isSmoker;      // Tipo primitivo
+    private double bloodPressure;  // Tipo primitivo
+    private char sex;              // Tipo primitivo ('M' o 'F')
+}
+```
+
 ### Resumen de modificadores
 
 | Modificador      | Ubicación      | Compartido | Modificable | Uso típico                |
