@@ -32,7 +32,7 @@ Diseñar modelos orientados a objetos claros, trasladarlos a código Java manten
 | 2      | UML básico: clases, atributos, métodos               | Traducir texto a modelo formal (diagrama de clases) | [Sesión 2](./session%2002/README.md) |
 | 3      | Modelado inicial + primeras clases en Java           | Pasar de diagrama simple a código                   | [Sesión 3](./session%2003/README.md) |
 | 4      | Constructores, paso de parámetros, referencia `this` | Inicialización segura y control de estado           | [Sesión 4](./session%2004/README.md) |
-| 5      | Tipos de variables. Miembros estáticos (clase)       |                                                     | TBD                                  |
+| 5      | Tipos de variables. Miembros estáticos (clase)       | Gestión de estado compartido y factory methods      | [Sesión 5](./session%2005/README.md) |
 | 6      | Clases wrapper, `String`, arrays básicos             |                                                     | TBD                                  |
 | 7      | Introducción a Input/Output (I/O)                    |                                                     | TBD                                  |
 | 8      | Gestión de excepciones (teoría + práctica)           |                                                     | TBD                                  |
@@ -80,6 +80,12 @@ Aplicación guiada: identificar entidades (Doctor, Patient, Appointment, Diagnos
 Profundiza en creación robusta de objetos, validación de invariantes, paso de parámetros (por valor) y uso semántico de `this`.
 
 [Ver contenido completo de la sesión 4](./session%2004/README.md)
+
+### Sesión 5 – Variables Estáticas y Tipos de Variables
+
+Introduce miembros estáticos (variables y métodos de clase), factory methods, constructores privados y distintos tipos de variables (instancia, clase, final, constantes).
+
+[Ver contenido completo de la sesión 5](./session%2005/README.md)
 
 ## Ejercicios globales destacados
 
