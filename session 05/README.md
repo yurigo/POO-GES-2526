@@ -1,5 +1,6 @@
+# Constructors and variables
 
-# Constructor vs Método
+## Constructor vs Método
 
 | | constructor | método |
 | - | - | - |
@@ -10,3 +11,6 @@
 | nombre | el nombre de la clase | el que yo quiera (excepto el nombre de la clase)
 | retorno | instancia el objeto | lo que retorne el método |
 
+## Static
+
+## Tipos de variables
