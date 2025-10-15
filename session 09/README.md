@@ -1,6 +1,6 @@
 # Actividad de Herencia 
 
-En un centro de salud se administran diferentes tipos de tratamientos a los pacientes.  Cada tratamiento tiene una duración y un coste, peros según el tipo, la manera de aplicarlo y su cálculo final varían.
+En un centro de salud se administran diferentes tipos de tratamientos a los pacientes.  Cada tratamiento tiene una duración y un coste, pero según el tipo, la manera de aplicarlo y su cálculo final varían.
 
 Tratamientos:
 - Medicamento
@@ -52,4 +52,5 @@ Tratamiento: Rehabilitación rodilla (10 días)
 Tratamiento: Cirugía apendicitis
 -> Realizando intervención qurúrgica con anestesia general.
 -> Coste total: 1200.0€
+
 ```
