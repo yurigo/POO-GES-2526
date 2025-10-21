@@ -14,7 +14,6 @@ Algunos accesos podrían estar bloqueados, exigiendo resolver un enigma o fabric
 
 También existe un **recetario** (o libro de combinaciones) que define qué ítems pueden fusionarse para crear uno nuevo.
 
-
 ## Imagine pidgeons
 
 Somos un grupo de música que queremos componer canciones pero no tenemos ni instrumentos ni presupuesto, sólo tenemos un ordenador con java e intelliJ (y un ámplio conocimiento de programación orientado a objetos).
