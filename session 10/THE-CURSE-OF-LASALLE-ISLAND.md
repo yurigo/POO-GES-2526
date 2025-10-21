@@ -1,5 +1,3 @@
-## hello
-
 ```plantuml
 @startuml
 class Game {
