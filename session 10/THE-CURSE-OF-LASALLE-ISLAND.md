@@ -1,4 +1,4 @@
-```plantuml
+```mermaid
 @startuml
 class Game {
 - title : String
