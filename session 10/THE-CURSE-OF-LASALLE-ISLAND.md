@@ -30,6 +30,7 @@ class Player{
 - name: String
 - activeRoom: Room
 - inventory: Inventory
++ combine(a: Item, b: Item, r: RecipeBook)
 }
 
 class Recipe{
@@ -67,6 +68,8 @@ RecipeBook "1" *-- "n" Recipe
 Room *-- Connection
 Connection *-- Room
 Player *-- Inventory
+Player .. Recipe
+Player .. Item
 
 @enduml
 ```
