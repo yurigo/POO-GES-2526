@@ -5,7 +5,7 @@ import javax.sound.sampled.SourceDataLine;
 
 public class SoundSynth {
     public void makeSound(int numberOfTimesFullSinFuncPerSec, int durationMs) throws LineUnavailableException {
-        System.out.println("Make sound");
+        System.out.println(String.format("Starting to make sound %d at %d ms", numberOfTimesFullSinFuncPerSec, durationMs));
         byte[] buf = new byte[2];
         int frequency = 44100; //44100 sample points per 1 second
         AudioFormat af = new AudioFormat((float) frequency, 16, 1, true, false);
