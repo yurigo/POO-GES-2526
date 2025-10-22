@@ -33,7 +33,7 @@ Diseñar modelos orientados a objetos claros, trasladarlos a código Java manten
 | 3      | Modelado inicial + primeras clases en Java           | Pasar de diagrama simple a código                   | [Sesión 3](./session%2003/README.md) |
 | 4      | Constructores, paso de parámetros, referencia `this` | Inicialización segura y control de estado           | [Sesión 4](./session%2004/README.md) |
 | 5      | Tipos de variables. Miembros estáticos (clase)       | Gestión de estado compartido y factory methods      | [Sesión 5](./session%2005/README.md) |
-| 6      | Clases wrapper, `String`, arrays básicos             |                                                     | TBD                                  |
+| 6      | Clases wrapper, `String`, arrays básicos             | Manipulación de tipos, strings y colecciones básicas| [Sesión 6](./session%2006/README.md) |
 | 7      | Introducción a Input/Output (I/O)                    |                                                     | TBD                                  |
 | 8      | Gestión de excepciones (teoría + práctica)           |                                                     | TBD                                  |
 | 9      | Relaciones entre clases: concepto y UML              |                                                     | TBD                                  |
@@ -86,6 +86,12 @@ Profundiza en creación robusta de objetos, validación de invariantes, paso de 
 Introduce miembros estáticos (variables y métodos de clase), factory methods, constructores privados y distintos tipos de variables (instancia, clase, final, constantes).
 
 [Ver contenido completo de la sesión 5](./session%2005/README.md)
+
+### Sesión 6 – Clases Wrapper, String y Arrays
+
+Introduce clases wrapper (Integer, Double, Float, Boolean) para tipos primitivos, manipulación de cadenas con String (split, equals, parsing), trabajo con arrays básicos y diferentes formas de iteración (for tradicional vs for-each). Se practican principios de encapsulamiento separando responsabilidades (lógica vs I/O) a través de tres ejemplos: calculadora con evolución de código imperativo a OOP, procesamiento de strings y arrays, y encapsulamiento del cálculo de IMC.
+
+[Ver contenido completo de la sesión 6](./session%2006/README.md)
 
 ## Ejercicios globales destacados
 
