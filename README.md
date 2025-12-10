@@ -43,17 +43,17 @@ Diseñar modelos orientados a objetos claros, trasladarlos a código Java manten
 | 13     | Práctica: encapsulamiento y abstracción              | Aplicar principios de encapsulamiento              | [Sesión 13](./session%2013/README.md) |
 | 14     | Colecciones: `ArrayList`, `HashMap`                  | Gestionar conjuntos de objetos dinámicamente       | [Sesión 14](./session%2014/README.md) |
 | 15     | Práctica: colecciones                                | Aplicar colecciones en problemas reales            | [Sesión 15](./session%2015/README.md) |
-| 16     | Persistencia básica (ficheros de texto)              | Guardar y recuperar datos en archivos de texto     | TBD                                  |
-| 17     | Persistencia con JSON (librerías externas)           | Serializar objetos a JSON y deserializar           | TBD                                  |
-| 18     | Práctica: colecciones y persistencia                 | Integrar colecciones con persistencia de datos     | TBD                                  |
-| 19     | Práctica: colecciones y persistencia                 | Consolidar conocimientos de colecciones y I/O      | TBD                                  |
-| 20     | Herencia: concepto, UML y ejemplos                   | Reutilizar código mediante jerarquías de clases    | TBD                                  |
-| 21     | Práctica: herencia                                   | Diseñar e implementar jerarquías de herencia       | TBD                                  |
-| 22     | Polimorfismo                                         | Aplicar polimorfismo para código flexible          | TBD                                  |
-| 23     | Clases abstractas                                    | Definir plantillas con métodos abstractos          | TBD                                  |
-| 24     | Interfaces                                           | Diseñar contratos y abstracciones con interfaces   | TBD                                  |
-| 25     | Práctica: herencia, polimorfismo y abstracción       | Integrar herencia, polimorfismo e interfaces       | TBD                                  |
-| 26     | Repaso general y resolución de dudas                 | Consolidar conceptos y preparar evaluación         | TBD                                  |
+| 16     | Persistencia básica (ficheros de texto)              | Guardar y recuperar datos en archivos de texto     | Pendiente                            |
+| 17     | Persistencia con JSON (librerías externas)           | Serializar objetos a JSON y deserializar           | Pendiente                            |
+| 18     | Práctica: colecciones y persistencia                 | Integrar colecciones con persistencia de datos     | Pendiente                            |
+| 19     | Práctica: colecciones y persistencia                 | Consolidar conocimientos de colecciones y I/O      | Pendiente                            |
+| 20     | Herencia: concepto, UML y ejemplos                   | Reutilizar código mediante jerarquías de clases    | Pendiente                            |
+| 21     | Práctica: herencia                                   | Diseñar e implementar jerarquías de herencia       | Pendiente                            |
+| 22     | Polimorfismo                                         | Aplicar polimorfismo para código flexible          | Pendiente                            |
+| 23     | Clases abstractas                                    | Definir plantillas con métodos abstractos          | Pendiente                            |
+| 24     | Interfaces                                           | Diseñar contratos y abstracciones con interfaces   | Pendiente                            |
+| 25     | Práctica: herencia, polimorfismo y abstracción       | Integrar herencia, polimorfismo e interfaces       | Pendiente                            |
+| 26     | Repaso general y resolución de dudas                 | Consolidar conceptos y preparar evaluación         | Pendiente                            |
 
 ## Resumen por sesión
 
