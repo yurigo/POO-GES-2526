@@ -107,19 +107,19 @@ Profundiza en el manejo de excepciones: lanzamiento explícito con throw, declar
 
 ### Sesión 9 – Relaciones entre Clases
 
-Introduce los diferentes tipos de relaciones entre clases (asociación, composición, agregación) y cómo modelarlas en UML. Se trabaja con ejemplos de herencia y relaciones entre objetos.
+Actividad práctica de herencia aplicada a un sistema de tratamientos médicos. Se modelan diferentes tipos de tratamientos (medicamento, físico, quirúrgico) que heredan de una clase base común, cada uno con su propia forma de calcular costes y aplicarse.
 
 [Ver contenido completo de la sesión 9](./session%2009/README.md)
 
 ### Sesión 10 – Implementación de Relaciones en Java
 
-Implementa en código las relaciones modeladas en UML: referencias entre objetos, colecciones de objetos relacionados, y gestión de las cardinalidades (1:1, 1:N, N:M).
+Actividades prácticas para implementar relaciones entre clases. Incluye ejercicios como "The curse of laSalle island" e "Imagine pidgeons" para aplicar los conceptos aprendidos.
 
 [Ver contenido completo de la sesión 10](./session%2010/README.md)
 
 ### Sesión 11 – Práctica de Relaciones entre Clases
 
-Práctica enfocada en aplicar los conceptos de relaciones entre clases en casos reales. Se trabaja la visibilidad y el control de acceso a miembros de las clases.
+Práctica enfocada en visibilidad y control de acceso entre clases relacionadas. Se trabajan los modificadores de acceso y el encapsulamiento en el contexto de relaciones.
 
 [Ver contenido completo de la sesión 11](./session%2011/README.md)
 

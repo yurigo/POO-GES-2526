@@ -42,4 +42,4 @@ Este ejemplo muestra:
 ## Relación con otras sesiones
 
 - **Sesión 7**: Introduce conceptos básicos de try-catch y I/O
-- **Sesión 8**: Profundiza en el manejo avanzado de excepciones
+- **Futuras sesiones**: Las excepciones se usarán en persistencia, colecciones y otras operaciones propensas a errores
