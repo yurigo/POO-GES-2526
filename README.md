@@ -34,26 +34,26 @@ Diseñar modelos orientados a objetos claros, trasladarlos a código Java manten
 | 4      | Constructores, paso de parámetros, referencia `this` | Inicialización segura y control de estado           | [Sesión 4](./session%2004/README.md) |
 | 5      | Tipos de variables. Miembros estáticos (clase)       | Gestión de estado compartido y factory methods      | [Sesión 5](./session%2005/README.md) |
 | 6      | Clases wrapper, `String`, arrays básicos             | Manipulación de tipos, strings y colecciones básicas| [Sesión 6](./session%2006/README.md) |
-| 7      | Introducción a Input/Output (I/O)                    |                                                     | TBD                                  |
-| 8      | Gestión de excepciones (teoría + práctica)           |                                                     | TBD                                  |
-| 9      | Relaciones entre clases: concepto y UML              |                                                     | TBD                                  |
-| 10     | Relaciones en Java (implementación)                  |                                                     | TBD                                  |
-| 11     | Práctica: relaciones entre clases                    |                                                     | TBD                                  |
-| 12     | Encapsulamiento y abstracción                        |                                                     | TBD                                  |
-| 13     | Práctica: encapsulamiento y abstracción              |                                                     | TBD                                  |
-| 14     | Colecciones: `ArrayList`, `HashMap`                  |                                                     | TBD                                  |
-| 15     | Práctica: colecciones                                |                                                     | TBD                                  |
-| 16     | Persistencia básica (ficheros de texto)              |                                                     | TBD                                  |
-| 17     | Persistencia con JSON (librerías externas)           |                                                     | TBD                                  |
-| 18     | Práctica: colecciones y persistencia                 |                                                     | TBD                                  |
-| 19     | Práctica: colecciones y persistencia                 |                                                     | TBD                                  |
-| 20     | Herencia: concepto, UML y ejemplos                   |                                                     | TBD                                  |
-| 21     | Práctica: herencia                                   |                                                     | TBD                                  |
-| 22     | Polimorfismo                                         |                                                     | TBD                                  |
-| 23     | Clases abstractas                                    |                                                     | TBD                                  |
-| 24     | Interfaces                                           |                                                     | TBD                                  |
-| 25     | Práctica: herencia, polimorfismo y abstracción       |                                                     | TBD                                  |
-| 26     | Repaso general y resolución de dudas                 |                                                     | TBD                                  |
+| 7      | Introducción a Input/Output (I/O)                    | Lectura de archivos y manejo básico de excepciones | [Sesión 7](./session%2007/README.md) |
+| 8      | Gestión de excepciones (teoría + práctica)           | Lanzar, capturar y propagar excepciones            | [Sesión 8](./session%2008/README.md) |
+| 9      | Relaciones entre clases: concepto y UML              | Modelar asociaciones, composición y agregación     | [Sesión 9](./session%2009/README.md) |
+| 10     | Relaciones en Java (implementación)                  | Implementar relaciones entre objetos en código     | [Sesión 10](./session%2010/README.md) |
+| 11     | Práctica: relaciones entre clases                    | Aplicar relaciones en casos prácticos              | [Sesión 11](./session%2011/README.md) |
+| 12     | Encapsulamiento y abstracción                        | Ocultar implementación y exponer interfaces claras | [Sesión 12](./session%2012/README.md) |
+| 13     | Práctica: encapsulamiento y abstracción              | Aplicar principios de encapsulamiento              | [Sesión 13](./session%2013/README.md) |
+| 14     | Colecciones: `ArrayList`, `HashMap`                  | Gestionar conjuntos de objetos dinámicamente       | [Sesión 14](./session%2014/README.md) |
+| 15     | Práctica: colecciones                                | Aplicar colecciones en problemas reales            | [Sesión 15](./session%2015/README.md) |
+| 16     | Persistencia básica (ficheros de texto)              | Guardar y recuperar datos en archivos de texto     | TBD                                  |
+| 17     | Persistencia con JSON (librerías externas)           | Serializar objetos a JSON y deserializar           | TBD                                  |
+| 18     | Práctica: colecciones y persistencia                 | Integrar colecciones con persistencia de datos     | TBD                                  |
+| 19     | Práctica: colecciones y persistencia                 | Consolidar conocimientos de colecciones y I/O      | TBD                                  |
+| 20     | Herencia: concepto, UML y ejemplos                   | Reutilizar código mediante jerarquías de clases    | TBD                                  |
+| 21     | Práctica: herencia                                   | Diseñar e implementar jerarquías de herencia       | TBD                                  |
+| 22     | Polimorfismo                                         | Aplicar polimorfismo para código flexible          | TBD                                  |
+| 23     | Clases abstractas                                    | Definir plantillas con métodos abstractos          | TBD                                  |
+| 24     | Interfaces                                           | Diseñar contratos y abstracciones con interfaces   | TBD                                  |
+| 25     | Práctica: herencia, polimorfismo y abstracción       | Integrar herencia, polimorfismo e interfaces       | TBD                                  |
+| 26     | Repaso general y resolución de dudas                 | Consolidar conceptos y preparar evaluación         | TBD                                  |
 
 ## Resumen por sesión
 
@@ -92,6 +92,60 @@ Introduce miembros estáticos (variables y métodos de clase), factory methods, 
 Introduce clases wrapper (Integer, Double, Float, Boolean) para tipos primitivos, manipulación de cadenas con String (split, equals, parsing), trabajo con arrays básicos y diferentes formas de iteración (for tradicional vs for-each). Se practican principios de encapsulamiento separando responsabilidades (lógica vs I/O) a través de tres ejemplos: calculadora con evolución de código imperativo a OOP, procesamiento de strings y arrays, y encapsulamiento del cálculo de IMC.
 
 [Ver contenido completo de la sesión 6](./session%2006/README.md)
+
+### Sesión 7 – Introducción a Input/Output (I/O)
+
+Introduce la lectura de archivos de texto en Java usando FileReader y BufferedReader. Se muestra el manejo básico de excepciones con try-catch-finally para gestionar errores durante operaciones de I/O.
+
+[Ver contenido completo de la sesión 7](./session%2007/README.md)
+
+### Sesión 8 – Gestión de Excepciones
+
+Profundiza en el manejo de excepciones: lanzamiento explícito con throw, declaración con throws, captura específica y genérica, y creación de excepciones personalizadas. Se trabaja la propagación de excepciones a través de la pila de llamadas.
+
+[Ver contenido completo de la sesión 8](./session%2008/README.md)
+
+### Sesión 9 – Relaciones entre Clases
+
+Actividad práctica de herencia aplicada a un sistema de tratamientos médicos. Se modelan diferentes tipos de tratamientos (medicamento, físico, quirúrgico) que heredan de una clase base común, cada uno con su propia forma de calcular costes y aplicarse.
+
+[Ver contenido completo de la sesión 9](./session%2009/README.md)
+
+### Sesión 10 – Implementación de Relaciones en Java
+
+Actividades prácticas para implementar relaciones entre clases. Incluye ejercicios como "The curse of laSalle island" e "Imagine pidgeons" para aplicar los conceptos aprendidos.
+
+[Ver contenido completo de la sesión 10](./session%2010/README.md)
+
+### Sesión 11 – Práctica de Relaciones entre Clases
+
+Práctica enfocada en visibilidad y control de acceso entre clases relacionadas. Se trabajan los modificadores de acceso y el encapsulamiento en el contexto de relaciones.
+
+[Ver contenido completo de la sesión 11](./session%2011/README.md)
+
+### Sesión 12 – Encapsulamiento y Abstracción
+
+Introduce los principios fundamentales de encapsulamiento (ocultar detalles de implementación) y abstracción (modelar solo lo esencial). Se enfatiza el uso correcto de modificadores de acceso y el diseño de interfaces públicas claras.
+
+[Ver contenido completo de la sesión 12](./session%2012/README.md)
+
+### Sesión 13 – Práctica de Encapsulamiento y Abstracción
+
+Práctica sobre clases abstractas y aplicación de principios de abstracción. Se trabaja con ejemplos de jerarquías de clases que modelan conceptos del mundo real.
+
+[Ver contenido completo de la sesión 13](./session%2013/README.md)
+
+### Sesión 14 – Colecciones: ArrayList y HashMap
+
+Introduce las colecciones más utilizadas en Java: ArrayList para listas dinámicas y HashMap para mapas clave-valor. Se aprende a gestionar conjuntos de objetos de forma eficiente.
+
+[Ver contenido completo de la sesión 14](./session%2014/README.md)
+
+### Sesión 15 – Práctica de Colecciones
+
+Práctica enfocada en el uso de interfaces y colecciones. Se consolidan los conocimientos sobre ArrayList, HashMap y el diseño de interfaces para abstraer comportamientos comunes.
+
+[Ver contenido completo de la sesión 15](./session%2015/README.md)
 
 ## Ejercicios globales destacados
 
